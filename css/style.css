@@ -301,7 +301,6 @@
     
     .navbar-default {
     background: none;
-    border: none;
     }
     .navbar {
     display: flex;
@@ -505,6 +504,7 @@
         text-align: center;
         color: #ff7300;
         text-transform: uppercase;
+        margin: 0.5em 8px 2.2em;
     }
     .w3-head-all h1{
     font-weight: 500;
@@ -986,9 +986,9 @@
     text-align:center;
     }
     .w3_agile_team_grid h4{
-    font-size: 1.5em;
-    color:#E0E0E0;
-    margin: 1.5em 0 .2em;
+        font-size: 1.5em;
+    color: #E0E0E0;
+    margin: 1.5em 4px 1.2em;
     text-transform: capitalize;
     }
     .w3_agile_team_grid p{
@@ -1257,7 +1257,7 @@
     }
     
     .w3-Events-flex .col-md-3 b{
-    width: 39%;
+    width: 51%;
     display: block;
     margin: 31px auto 0px auto;
     }
