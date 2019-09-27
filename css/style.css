@@ -343,10 +343,10 @@
     outline:none;
     }
     nav.navbar.navbar-default {
-    background: none;
-    padding: 0.5em 1em;
-    background: #000;
-    justify-content: center;
+        background: none;
+        padding: 0.5em 2em;
+        background: #000;
+        justify-content: center;
     }
     .navbar-right {
     float: left !important;
@@ -1336,6 +1336,7 @@
     nav.navbar.navbar-default{
     display: flex
     }
+    
     @media(max-width: 1920px){
         .w3-Events-flex img {
             height: 382px;
